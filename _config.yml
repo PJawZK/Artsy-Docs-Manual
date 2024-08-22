@@ -6,3 +6,6 @@ url: https://pjawzk.github.io/Artsy-Docs-Manual
 
 aux_links:
   Template Repository: https://github.com/pjawzk/Artsy-Docs-Manual
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
